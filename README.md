@@ -66,7 +66,8 @@ The goal was to build an idiomatic asynchronous Rust microservice that combines 
 
 ## How long did you spend on this project?
 
-≈ 15 hours total (studying best practices, development, testing, documentation).
+≈ 15 hours total (studying best practices, development, testing, documentation). 
+
 ---
 
 ## Did you make any trade-offs for this project? What would you have done differently with more time?
